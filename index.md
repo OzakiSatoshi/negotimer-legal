@@ -4,6 +4,7 @@
 事業者: 合同会社シクミル
 連絡先: ozaki@shikumill.com
 サポート: [よくある質問・お問い合わせ](./support.html)
+English: [Privacy Policy (English)](./en.html)
 
 ## 基本方針
 
