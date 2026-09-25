@@ -3,6 +3,7 @@
 - Effective: April 16, 2026 / Last updated: September 25, 2026
 - Operator: Shikumill LLC (合同会社シクミル), Japan
 - Contact: ozaki@shikumill.com
+- Support: [FAQ and contact](./support-en.html)
 - [日本語](./)
 
 This is an English translation of the [Japanese privacy policy](./).
