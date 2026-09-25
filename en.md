@@ -1,6 +1,6 @@
 # negotimer Privacy Policy
 
-- Effective: April 16, 2026 / Last updated: September 25, 2026
+- Effective: April 16, 2026 / Last updated: September 26, 2026
 - Operator: Shikumill LLC (合同会社シクミル), Japan
 - Contact: ozaki@shikumill.com
 - Support: [FAQ and contact](./support-en.html)
@@ -134,6 +134,12 @@ first launch the App. If you do not allow tracking, ads are still shown but
 **without tracking**. You can change this at any time in iOS
 Settings → Privacy & Security → Tracking.
 
+**In the European Economic Area (EEA), the UK and Switzerland**, the App uses Google's
+consent tool (the User Messaging Platform) to ask for your consent before ads are
+personalised. You can accept, refuse, or choose purposes one by one. If you refuse,
+ads are still shown but **without personalisation** (limited ads). You can change or
+withdraw your choice at any time from **Settings → “Ad privacy choices”** in the App.
+
 **Once you buy Pro (a one-time purchase), ads are no longer shown and AdMob no
 longer collects data through the App.**
 
@@ -159,6 +165,46 @@ keys and to answer your enquiries. We do not provide them to any third party.
 
 License keys are **verified entirely on your PC**. The App never contacts our
 servers to check them, and no internet connection is needed.
+
+## Users in the EEA, the UK and Switzerland (GDPR)
+
+This section applies if you are in the European Economic Area, the United Kingdom
+or Switzerland. It explains how we meet the EU and UK General Data Protection
+Regulation (GDPR) and the Swiss Federal Act on Data Protection.
+
+**Controller.** Shikumill LLC (合同会社シクミル), Osaka Ekimae Dai-3 Building 29F,
+1-1-3 Umeda, Kita-ku, Osaka, Japan. Contact: ozaki@shikumill.com.
+
+**What we process, why, and on what legal basis**
+
+| Data | Purpose | Legal basis | How long we keep it |
+|---|---|---|---|
+| Name, email address, amount paid, payment identifier and license key (Windows Pro only) | Issuing and resending your license key, answering your enquiries | Performance of a contract (Art. 6(1)(b) GDPR) | For as long as you may need the key, and for the period required by Japanese tax and accounting law (up to 7 years) |
+| The content of emails you send us | Answering your enquiry | Our legitimate interest in responding (Art. 6(1)(f)) | Until the enquiry is resolved, then deleted within 1 year |
+| Advertising identifiers and usage data collected by Google AdMob (free version) | Showing and measuring ads | Your consent (Art. 6(1)(a)), collected through Google's consent tool | Google handles this under its own policy; see [Google's Privacy Policy](https://policies.google.com/privacy) |
+
+Your timer settings and recordings stay on your device and are never sent to us,
+so we do not process them.
+
+**Transfers outside Europe.** We are based in Japan. The European Commission and the
+UK have recognised Japan as providing an adequate level of data protection.
+Payment data is handled by Stripe and ad data by Google under their own safeguards
+for international transfers.
+
+**Your rights.** You have the right to access, correct or delete your personal data,
+to restrict or object to its processing, and to data portability. Where processing
+is based on consent, you can withdraw it at any time (for ads: Settings →
+“Ad privacy choices”); this does not affect processing carried out before you
+withdrew it. To exercise these rights, email ozaki@shikumill.com. We will reply
+within one month.
+
+You also have the right to lodge a complaint with the data protection authority
+in the country where you live or work.
+
+**EU/UK representative.** We have not appointed a representative in the EU or the UK
+under Article 27 GDPR. Our processing of personal data is occasional, does not include
+special categories of data, and is unlikely to result in a risk to your rights and
+freedoms. Please contact us directly at ozaki@shikumill.com.
 
 ## Sharing with third parties
 
