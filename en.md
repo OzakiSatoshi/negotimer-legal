@@ -201,11 +201,6 @@ within one month.
 You also have the right to lodge a complaint with the data protection authority
 in the country where you live or work.
 
-**EU/UK representative.** We have not appointed a representative in the EU or the UK
-under Article 27 GDPR. Our processing of personal data is occasional, does not include
-special categories of data, and is unlikely to result in a risk to your rights and
-freedoms. Please contact us directly at ozaki@shikumill.com.
-
 ## Sharing with third parties
 
 We do not provide your information to third parties except where required by law.
