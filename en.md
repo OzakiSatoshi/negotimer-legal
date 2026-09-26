@@ -186,9 +186,12 @@ Regulation (GDPR) and the Swiss Federal Act on Data Protection.
 Your timer settings and recordings stay on your device and are never sent to us,
 so we do not process them.
 
-**Transfers outside Europe.** We are based in Japan. The European Commission, the
-United Kingdom and Switzerland have each recognised Japan as providing an adequate
-level of data protection, so no additional safeguard is needed for the transfer.
+**Transfers outside Europe.** We are based in Japan. The European Commission and the
+UK have recognised Japan as providing an adequate level of data protection.
+Switzerland has not. If you are in Switzerland, we receive your personal data in
+Japan only where this is directly connected with the conclusion or performance of
+a contract with you (Article 17(1)(b) of the Federal Act on Data Protection), such
+as issuing and resending your license key and answering your enquiries about it.
 Payment data is handled by Stripe and ad data by Google under their own safeguards
 for international transfers.
 
@@ -199,8 +202,9 @@ is based on consent, you can withdraw it at any time (for ads: Settings →
 withdrew it. To exercise these rights, email ozaki@shikumill.com. We will reply
 within one month.
 
-**No automated decision-making.** We do not make decisions about you by automated
-means, and we do not profile you beyond the advertising described above.
+**Automated decisions.** We do not make decisions based solely on automated
+processing, including profiling, that produce legal effects concerning you or
+similarly significantly affect you.
 
 You also have the right to lodge a complaint with a data protection authority —
 in the EEA, the one for the country where you live or work
