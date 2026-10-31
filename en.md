@@ -1,6 +1,6 @@
 # negotimer Privacy Policy
 
-- Effective: April 16, 2026 / Last updated: September 26, 2026
+- Effective: April 16, 2026 / Last updated: October 31, 2026
 - Operator: Shikumill LLC (合同会社シクミル), Japan
 - Contact: ozaki@shikumill.com
 - Support: [FAQ and contact](./support-en.html)
@@ -12,7 +12,7 @@ If the two differ, the Japanese version prevails.
 ## Our approach
 
 negotimer ("the App") is a timer that helps run short pitches at networking
-events, meetups and similar gatherings. It is available for iPhone, Android and Windows.
+events, meetups and similar gatherings. It is available for iPhone, Android, Windows and Mac.
 
 The data the App handles (your timer settings, your recordings and so on)
 **stays entirely on your device and is never sent to us.**
@@ -121,6 +121,60 @@ and joins the meeting from that window.
 
 **The Windows version shows no ads**, and no data is collected by AdMob.
 
+## The Mac version
+
+The Mac version is also for using the timer in online meetings. Like the Windows
+version, it shows the timer as a participant tile. The differences are explained below.
+
+### Showing the timer as a "camera"
+
+The Mac version uses a **camera extension** (a macOS system extension) to add a camera
+named "negotimer" to your Mac's list of cameras. Meeting tools see it as an ordinary camera.
+
+- What the App adds is **a source of video**. It **never reads video from your Mac's
+  built-in or connected cameras.**
+- On first use, the App asks for camera access. This is used only to find the
+  "negotimer" camera the App added and send the timer image to it.
+- The only thing sent to your meeting tool is the timer image the App draws
+  (time left, phase name, background colour and the name of the format).
+- The camera extension is **removed when you delete the App.**
+
+### Recording (Pro)
+
+Like the Windows version, recording on Mac **captures two sources together**:
+
+- **Your own voice** (the microphone)
+- **The sound your Mac plays** (the other participants in the meeting). macOS asks you to
+  allow system audio recording. The App's own cue sounds are not recorded
+
+The two are mixed into a single audio file. In other words, **what the other
+participants say is recorded too.**
+
+- Recording happens only when you turn it on.
+- Recordings are **stored only on your Mac** and are never sent to our servers automatically.
+- Recordings are shared or deleted only by you. If you hand them to a generative AI
+  service, that service's terms govern how it handles them.
+
+⚠️ **Before recording an online meeting, tell every participant that you are
+recording and get their agreement.** The App does not do this for you.
+
+### Joining a meeting
+
+When you enter a meeting invite link or meeting ID, the App opens **a window used only
+for the timer** and joins the meeting from that window.
+
+- It connects only to the meeting you entered (Zoom, Google Meet, Microsoft Teams, etc.),
+  not through our servers.
+- What happens in that window is governed by **the meeting service's privacy policy**.
+- That window **does not keep** cookies or other browsing data (they are discarded when it closes).
+- That window never sends your microphone to the meeting (it sends silence), and plays no meeting audio.
+
+### Purchases and ads
+
+- Buying and restoring Pro on Mac goes through **the App Store (Apple)**, as described in
+  "In-app purchases". It is a separate purchase from Pro on iPhone.
+- **The Mac version shows no ads**, and no data is collected by AdMob.
+
 ## Advertising
 
 The free version of the App shows ads provided by **Google AdMob (Google LLC)**.
@@ -145,7 +199,7 @@ longer collects data through the App.**
 
 ## In-app purchases
 
-Buying and restoring Pro (no ads + recording) is handled through the payment
+Buying and restoring Pro (no ads + recording on iPhone and Android; meeting recording on Mac) is handled through the payment
 systems of **the App Store (Apple)** or **Google Play (Google)**.
 Payment information is managed by each store; we never have access to it.
 The only thing the App receives is whether you have purchased.
